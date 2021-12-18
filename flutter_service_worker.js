@@ -19,16 +19,20 @@ const RESOURCES = {
 "assets/assets/svg/wifi.svg": "af1af7d4bb0f45d71da22460470baf34",
 "assets/FontManifest.json": "97b749935b1095d5569fe0671c936f09",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "188d38c98fc00135a970f9bc4fa62961",
+"assets/NOTICES": "ff2a101adcaf76e45ba455ba9d965596",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
+"canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
+"canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
+"canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
+"canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "68b8d3177fc8b791736df3be9149ad2b",
-"/": "68b8d3177fc8b791736df3be9149ad2b",
-"main.dart.js": "3fa6b1088d4ae2004e0724db35a1e981",
+"index.html": "b2f4fd6aa06a89542e0d2fbc7917ffd1",
+"/": "b2f4fd6aa06a89542e0d2fbc7917ffd1",
+"main.dart.js": "2d2dc46c70e6051d03f576d5e6bca9fd",
 "manifest.json": "324654d40e6c5cc1344cd8583299bd76",
-"version.json": "cbdbd28247e8fb5f876bbf11ca852cb4"
+"version.json": "9e458dd165772d40c8b11c24cf4412d7"
 };
 
 // The application shell files that are downloaded before a service worker can
